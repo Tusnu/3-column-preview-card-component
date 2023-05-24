@@ -57,6 +57,7 @@ button {
     padding: 1rem;
     border-radius: 2rem;
     border-style: none;
+    cursor: pointer;
 }
 
 .img {
