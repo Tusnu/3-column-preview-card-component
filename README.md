@@ -13,6 +13,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
+A Frontend Mentor project to replicate a given design with only CSS and HTML.
+
 ### The challenge
 
 Users should be able to:
